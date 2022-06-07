@@ -1,0 +1,25 @@
+body {
+    width: 100vw;
+    height: 90vh;
+    overflow-x: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ececec;
+}
+
+main {
+    width: 42rem;
+    height: 20rem;
+    border: solid 1px #000000;
+    font-size: 2rem;
+    background-color: #acacac;
+}
+
+h3 {
+    margin-left: 1rem;
+}
+
+p {
+    margin-left: 1rem;
+}
